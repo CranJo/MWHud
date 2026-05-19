@@ -14,6 +14,14 @@ Whether you're tracking your balance, watching your fly timer count down, or kee
 
 ---
 
+## 📸 Preview
+
+![Mugiwara Preset](mugiwara-preset.png)
+
+*The default Mugiwara preset — fully customizable layout with all HUD elements displayed.*
+
+---
+
 ## ✨ Features
 
 ### 🖥️ HUD Display Elements
@@ -48,6 +56,8 @@ Whether you're tracking your balance, watching your fly timer count down, or kee
 | **Group Drag** | Hold Shift and drag to move a cluster of nearby boxes together |
 | **Hide Boxes** | Toggle individual boxes off without losing their position |
 | **Preset System** | 3 built-in presets + save unlimited custom layouts (positions, colors, shapes, visibility) |
+| **HUD Scale** | Cycle through 5 scale presets — Tiny, Small, Normal, Large, Huge — independent of Minecraft's UI Scale |
+| **Smart Anchoring** | Boxes auto-detect edge positions and anchor accordingly — left, center, or right — keeping layouts consistent across all scales |
 
 #### Edit Mode Controls
 
@@ -104,16 +114,16 @@ The mod works standalone — ping shows immediately with a default layout. Full 
 
 ## 🎮 Explorer's Mugiwara SMP
 
-Join **[Mugiwara SMP](https://your_server_link_here/)** — our thriving Minecraft Survival Multiplayer server! 🌊
+Join **[Mugiwara SMP](https://discord.gg/qp5k4Ps7S6)** — our thriving Minecraft Survival Multiplayer server! 🌊
 
 Embark on an epic adventure in a friendly community-driven world featuring:
 
-- 🏝️ **Custom Terrain** — Explore unique biomes and hand-crafted landscapes
-- 💰 **Player Economy** — Trade, build shops, and become the richest pirate on the seas
-- ⚔️ **PvP Arena** — Test your skills against fellow players in balanced combat
-- 🎯 **Weekly Events** — Envoy crates, Key-for-all drops, and boss battles
-- 🛡️ **Grief Protection** — Claim your land and build with peace of mind
-- 🤝 **Active Community** — Join events, make friends, and sail the seas together!
+- 🏪 **Shop** — Buy and sell items in the player-driven economy
+- 🐉 **Custom Dragon** — Face unique dragon battles with special rewards
+- ⚾ **Pokéballs** — Catch mobs and build your collection
+- 🛡️ **Custom Items/Armors** — Equip exclusive gear with special abilities
+- 🏠 **Grief Protection** — Claim your land and build with peace of mind
+- ⚔️ **PvP Arena / PvP Training Arena** — Test your skills in balanced combat zones
 
 *Set sail for adventure — the Grand Line awaits!* 🏴‍☠️
 
