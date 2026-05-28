@@ -108,7 +108,7 @@ MWHud includes a built-in **per-server password manager**, independent of the HU
 
 The mod works standalone — ping shows immediately with a default layout. Full HUD data (money, fly time, etc.) requires the **MWHud Plugin** installed on the server side.
 
-> 🔌 Server admins: see the **[MWHud Plugin](https://github.com/Cranjo/mwhud)** page for setup instructions.
+> 🔌 Server admins: see the **[MWHud Plugin](https://github.com/Cranjo/mwhudplugin)** page for setup instructions.
 
 ---
 
